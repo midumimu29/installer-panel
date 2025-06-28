@@ -1,8 +1,8 @@
 # panel-installer
 
-==========================================================
+
          Pterodactyl Panel installer  - Midu Dev          
-==========================================================
+
 
 1. how to install the panel, just type
     - bash <(curl -s https://raw.githubusercontent.com/midumimu29/installer-panel/main/petrodactly.sh)
