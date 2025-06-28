@@ -1,6 +1,6 @@
 # panel-installer-codespaces
   
-  Midu Dev ------
+------  Midu Dev 
 
 
 1. how to install the panel, just type
