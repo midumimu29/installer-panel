@@ -1,4 +1,7 @@
-# panel-installer
+# panel-installer-githubworkspace
+  
+  Midu Dev
+
 
 1. how to install the panel, just type
 
