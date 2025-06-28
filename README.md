@@ -7,4 +7,4 @@
 
        bash <(curl -s https://raw.githubusercontent.com/midumimu29/installer-panel/main/petrodactly.sh)  
 
-    - when you have installed it, just create an admin user and the next step is to install wings
+    - When you have installed it, just create an admin user and the next step is to setup the panel and install the wings
